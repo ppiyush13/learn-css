@@ -32,10 +32,7 @@ https://gist.github.com/dcneiner/1137601
 
 ## CSS Specificity - 27th Sep
 
-https://css-tricks.com/specifics-on-css-specificity/
-
-https://specificity.keegan.st/
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
-
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements
+https://css-tricks.com/specifics-on-css-specificity/ \
+https://specificity.keegan.st/ \
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity \
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements \

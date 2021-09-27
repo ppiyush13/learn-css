@@ -5,6 +5,9 @@ export const App = () => {
     <Wrapper>
       <a href='#'>Anchior1</a>
       <a href='#ttyt'>Anchior2</a>
+      <div className='class boxSize' data-css={'open'}>
+        box sizing
+      </div>
       <main>
         <p>
           <span>Content 1</span>
@@ -36,21 +39,17 @@ export const App = () => {
 };
 
 const Wrapper = styled.div`
-  main {
-    margin-top: 1rem;
-  }
-  main span {
-    display: inline-block;
-    width: 100%;
-    background-color: wheat;
-    padding: 0.25rem 1rem;
+  color: crimson;
+
+  ${BoxSize} {
+    border: 5px solid red !important;
   }
 
-  a:visited {
-    color: red;
+  .class {
+    border: 5px solid yellow !important;
   }
+`;
 
-  .first-main {
-    color: crimson;
-  }
+const BoxSize = styled.div`
+  border: 5px solid red !important;
 `;

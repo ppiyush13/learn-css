@@ -36,3 +36,7 @@ https://css-tricks.com/specifics-on-css-specificity/ \
 https://specificity.keegan.st/ \
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity \
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements \
+
+## CSS inheritance - 29th Sep
+
+https://bitsofco.de/initial-inherit-unset-and-revert/ \

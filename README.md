@@ -40,3 +40,13 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pse
 ## CSS inheritance - 29th Sep
 
 https://bitsofco.de/initial-inherit-unset-and-revert/ \
+
+## CSS Units - 01 Oct
+
+https://www.digitalocean.com/community/tutorials/css-css-units-explained \
+
+## Margin collapse
+
+## CSS display property
+
+## Font rules
